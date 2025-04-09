@@ -16,7 +16,7 @@ Legacy heeft verschillende discord servers die zijn goed gekeurd door het stadsb
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
 |Legacy Roleplay| Main discord server van Legacy | [Invite](https://discord.gg/legacy-roleplay) |
-|Legacy Support| Support discord server van Legacy | [Invite](https://discord.gg/PNHwuDjNmp) |
+|Legacy Support| Support discord server van Legacy | [Invite](https://discord.gg/mfS8g9wVcZ) |
 |Legacy Cardealer| Cardealer discord server van Legacy | [Soon](soon) |
 |Legacy Overheid| Overheid discord server van Legacy | [Invite](https://discord.gg/TkyYNxpEmd) |
 |Legacy Gangs| Gangs discord server van Legacy | [Invite](https://discord.gg/bAeSVtDcpW) |
